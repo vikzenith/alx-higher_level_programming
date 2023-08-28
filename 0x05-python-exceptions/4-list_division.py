@@ -28,33 +28,3 @@ def list_division(my_list_1, my_list_2, list_length):
         finally:
             new_list.append(div)
     return (new_list)
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-4-list_division.py [unix] (00:59 01/01/1970)                                                               0,0-1 All
-"4-list_division.py" [New]
-
